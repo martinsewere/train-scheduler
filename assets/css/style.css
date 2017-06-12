@@ -1,4 +1,8 @@
 body{
-	background: "../assets/images/background-main.jpg"
+	background-image: url("../images/background-main.jpg")
 
+}
+
+.jumbotron{
+	background-image: url("../images/background.jpg");
 }
